@@ -248,7 +248,7 @@ PRODUCT_PACKAGES += \
     vendor.display.color@1.1_vendor \
     vendor.display.postproc@1.0_vendor \
     vendor.qti.esepowermanager@1.0_vendor \
-    vendor.qti.hardware.qdutils_disp@1.0 \
+    vendor.qti.hardware.qdutils_disp@1.0_vendor \
     vendor.qti.hardware.qteeconnector@1.0_vendor \
     vendor.qti.hardware.tui_comm@1.0_vendor \
     vendor.semc.hardware.thermal@1.0 \
